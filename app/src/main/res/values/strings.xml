@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BungalovRehberi2</string>
+    <string name="hint">Bölge-Konsept-Kişi Sayısı-Tarih</string>
+    <string name="searchText">Bungalov Ara</string>
+</resources>
